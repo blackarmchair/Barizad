@@ -1,0 +1,2 @@
+- inspired by Hittites and early metallurgists￼
+- Smith-clans who believe the fragments of the city are alive and wish to be reforged into a god.

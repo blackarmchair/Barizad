@@ -1,0 +1,3 @@
+- Paladins follow Zahr al-Narās, enforcing destiny without regard to mercy. They are not bound by the usual LG alignment restriction; they're bound by their loyalty to Zahr al-Narās and must act in its best interests and in accordance with its wishes or face the same penalties as a traditional Paladin who takes an evil action.￼
+- Paladins of Aram-Zaneth function exactly opposite to traditional Paladins; they must be evil-aligned and must work against Zahr al-Narās￼
+- Satrapies of Varnash have Paladins of Radiance, who serve their house gods with divine brass relics

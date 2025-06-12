@@ -1,0 +1,3 @@
+- The Thalassocracy is ruled by the **Concord of Keels**, a rotating council of **high captains**, **house-magi**, and **guild factors** representing the most profitable ships and sea-holds.￼
+- No land-bound king holds sway here. Every title in Nisarun is earned by **cargo, chart, or cunning.****￼**
+- Influence is formalized in **ledger-seals**—magical tokens that track wealth, favors, and shared oaths. These are used in rituals, negotiations, and even warfare.

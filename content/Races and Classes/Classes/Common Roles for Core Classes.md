@@ -1,0 +1,7 @@
+- **Fighter**: Brassguard of Varnash, Ashguard, Hollowforged Shield-Bearer, or caravan warrior￼
+- **Rogue**: Zifari pathfinders, Nisari smugglers, Mirror-Scribes￼
+- **Barbarian**: Desert-berserkers, flame-haunted fragment raiders, Zifari wind howlers￼
+- **Bard**: Zifari fate-singers, Nimari dream-orators, Nisari contract-chant manipulators￼
+- **Monk**: Could be relic-keepers trained in broken Celestine martial forms (very cool with Hollowforged mentors)￼
+- **Sorcerer**: Perfect for Ifriqa, Nimari, and fragment-touched bloodlines.￼
+- **Wizard**: Perfect for Myrian scholars, Nisari star-scribes, or Brass City archivists.

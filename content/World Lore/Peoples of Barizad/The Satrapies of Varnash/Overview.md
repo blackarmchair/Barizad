@@ -1,0 +1,3 @@
+The Satrapies of Varnash form a golden-sprawling empire of river-fed valleys, tiered strongholds, and polished monuments, ruled from the ancient city of Zin-Ravan. Grand in speech, bold in action, and culturally flamboyant, the Varnathi possess a rare trait in this age of dread and ruin: swagger.
+ 
+Where others tremble before the remnants of Zahr al-Narās, the Varnathi scoff. They believe fate can be claimed like treasure—and they have the proof: True Brass, the radiant alloy recovered from the Brass City’s shattered vaults, polished until it gleams like a second sun.

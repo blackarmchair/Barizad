@@ -1,0 +1,4 @@
+- High priests wear layered robes of crimson and indigo, dyed with rare minerals and ash-dust.￼
+- Skin often tattooed or branded with sigils denoting rank, lineage, or pact-oaths.￼
+- Warriors fight bare-chested or in scarified leather, adorned with bone charms and melted brass fittings.￼
+- Nobles wear copper-inlaid ivory masks during rituals, stylized as beast-gods or the Chained Sun.

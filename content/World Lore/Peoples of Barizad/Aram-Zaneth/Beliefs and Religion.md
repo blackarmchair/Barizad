@@ -1,0 +1,7 @@
+Central to the faith of Aram-Zaneth is the worship of Zaneth, the Chained Sun, an inverted deity whom they claim was exiled from the Brass City for revealing forbidden truths to mortals. The people of Aram-Zaneth live steeped in symbolism, where nothing is mundane—everything is either sacred or taboo. Their religious cosmology revolves around Zaneth and a cohort of lesser divine beings known as the Thirsting Court, each representing aspects of desire, suffering, and the cyclical nature of truth.
+ 
+They reject the notion of linear time or predestined fate, embracing instead a vision of existence as an eternal cycle of suffering and renewal, powered through blood and sacrifice. Their rituals reflect this worldview: blood rites, ecstatic trances, dream-feasting, and offerings of flame are common, often enacted atop vast, terraced ziggurats stained with centuries of sacrificial blood.
+ 
+The iconography of Aram-Zaneth is as potent as it is unsettling. The Chained Sun, a stylized disc split by black chains and burning from within, is their most sacred symbol—worn as pendants, etched into armor, and painted on altars in blood. The Inverted Tree, whose roots stretch skyward while its fruit lies buried deep beneath the earth, represents hidden knowledge and the reversal of divine order. The Brass Spiral, a complex labyrinthine glyph, is believed to mirror the unraveling of fate itself.
+ 
+Every aspect of their ritual life is infused with dark reverence, designed not to please benevolent gods, but to awaken sleeping truths and draw power from suffering.

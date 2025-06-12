@@ -1,0 +1,4 @@
+- The Courts are ruled by the God-Queen Seraphae VI, a serene but secretive monarch said to speak with stars in her sleep.
+- Rule is both sacral and bureaucratic—a divine mandate enforced by temple-scribes, dream-casters, and mirror-masked judges.
+- The population is organized into castes tied to celestial functions: cultivators (of river and soul), embalmer-philosophers, death-barge navigators, and star-watchers who recite the Codices of Alignment nightly.
+- Though revered as semi-divine, the queen’s bloodline is slowly diminishing—each generation less connected to the stars.

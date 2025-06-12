@@ -1,0 +1,4 @@
+- Zin-Ravan – The radiant capital; home to the Vault of Echoes and seat of the Shahenshar￼
+- Sul-Hajra – Artisan satrapy famed for its True Brass forges and hereditary mirror-casters￼
+- The Brazen Steps – Terraced hills where nobles duel in full regalia, judged on form and gleam￼
+- The Reflecting Border – A magical zone where divination falters, maintained by True Brass pylons

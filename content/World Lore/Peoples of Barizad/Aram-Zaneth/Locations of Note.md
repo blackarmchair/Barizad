@@ -1,0 +1,3 @@
+- Ash-Zurab – Capital city built into a volcanic rift; here stands the Temple of Red Prophecy, where the High Oracle drinks molten brass to gain visions.￼
+- The Black Groves of Haran’Set – A jungle-choked ruin where forgotten deities and failed prophecies fester, guarded by twisted beast-priests.￼
+- Throne of Chains – A cliffside fortress built around an immense broken sky-anchor from the Brass City, repurposed as a ritual crucible.

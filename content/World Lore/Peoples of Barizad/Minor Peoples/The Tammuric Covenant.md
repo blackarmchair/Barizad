@@ -1,0 +1,3 @@
+- Inspired by Zoroastrian sects￼
+- Fire-priests and flame-seers who believe the fall was a moral punishment for pride.￼
+- They wander as missionaries.
