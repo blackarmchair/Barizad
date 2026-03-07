@@ -1,0 +1,3 @@
+The Myrian Halls are a coalition of ancient city-states strung along the fertile banks of the River Mereth, a slow-moving current flanked by terraced floodplains, ziggurats, and starlit observatories. Each city claims descent from a divine envoy sent from or in communion with the Brass City, and each preserves a distinct lineage of prophets, scholars, and visionary rites.
+ 
+Where others seek gods, the Myrians seek continuity—and now a return to the celestial order that once guided the world before the fall. They do not worship ideals or abstractions, but the Sky-Born, ancestral demigods who once walked the corridors of Zahr al-Narās and who now speak through visions, relics, and sacred dreams.

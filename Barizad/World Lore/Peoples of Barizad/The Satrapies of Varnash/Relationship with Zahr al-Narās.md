@@ -1,0 +1,3 @@
+- The Varnathi see Zahr al-Narās as a fallen bureaucracy, once great but ultimately flawed by its rigidity.
+- They salvage and reforge its fragments—not in reverence, but as a show of dominance.
+- Djinn and Celestine remnants are treated with contempt, viewed as failed stewards unworthy of the brass they once bore.

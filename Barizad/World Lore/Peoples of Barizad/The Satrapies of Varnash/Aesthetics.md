@@ -1,0 +1,4 @@
+- Towering palaces of sunwashed stone and brass-tiled roofs that shine like fire but never burn
+- Statues and monuments with polished mirrored faces—not to honor ancestors, but to reflect the viewer’s ambition
+- Fashion is flamboyant: long robes trimmed in etched metal, mirrored jewelry, and shining veils worn over the eyes in ceremony
+- The Varnathi believe to gleam is to be seen, and to be seen is to matter.

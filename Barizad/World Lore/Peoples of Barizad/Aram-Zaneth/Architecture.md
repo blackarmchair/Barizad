@@ -1,0 +1,5 @@
+- Tiered black ziggurats with obsidian bricks veined with molten copper.
+- Hanging altars suspended by chains over pits of flame or brine.
+- Ruined cities overgrown with night-blooming flowers, vines, and twisted fig trees—symbolizing rot and false fertility.
+- Sacrificial trenches and fire gutters built into every public space to receive the gods’ offerings.
+- City walls carved with writhing glyphs that appear to move when viewed peripherally.

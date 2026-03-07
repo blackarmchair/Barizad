@@ -1,0 +1,3 @@
+- inspired by Scythians and early Perso-Turkic horse peoples
+- Nomads who track falling stars and sky-shards on the steppes
+- ride beasts shaped by wild magic.

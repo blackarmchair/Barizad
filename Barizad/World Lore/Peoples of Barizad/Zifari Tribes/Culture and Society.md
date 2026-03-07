@@ -1,0 +1,3 @@
+- The Zifari organize into Roaming Constellations—tribal groups named after celestial patterns or legendary ancestors.
+- Leadership is not hereditary. It flows with story: the greatest teller, singer, or guide becomes the leader for a season or a cycle.
+- Children are taught not to memorize, but to embody the songs—gestures, fire-dances, and trance-poems that encode their history.

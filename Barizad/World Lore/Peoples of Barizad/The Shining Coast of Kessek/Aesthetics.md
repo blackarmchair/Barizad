@@ -1,0 +1,5 @@
+- Shell-inlaid domes, silvered ports, and buildings shaped like rising sails
+- Veiled courtiers and jewel-toned robes, adorned with spiral motifs and knot-symbols
+- Markets that smell of salt, starfruit, ink, and ash wine
+- Naming customs tied to ships or events (e.g., “Zeyra-of-the-Third-Tide” or “Maruin Dream-Safe”)
+- Their highest insult is “anchored”—used to describe someone stuck in a single truth or bound to one master.

@@ -1,0 +1,3 @@
+- Towering ziggurats crowned with dome observatories
+- Polished copper obelisks used to measure the angles of dreams and starlight
+- Commoners wear robes of dark linen embroidered with constellations, while the nobility bear braided metal bands etched with their ancestry

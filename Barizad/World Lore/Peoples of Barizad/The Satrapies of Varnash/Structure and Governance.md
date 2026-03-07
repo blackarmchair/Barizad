@@ -1,0 +1,3 @@
+- Varnash is ruled by the Shahenshar ("King of Kings"), whose authority is enforced through satraps—semi-autonomous governors of client provinces.
+- Each satrap maintains a House Vault, housing their ancestral relic of True Brass—a polished shard said to resonate with celestial defiance.
+- These noble houses frequently engage in political maneuvering, ceremonial duels, and competitions of wealth and wit. Yet in times of crisis, Varnathi unity is sudden and overwhelming.

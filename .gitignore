@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/themes/
+Barizad/.obsidian/workspace.json
+Barizad/.obsidian/plugins/
+Barizad/.obsidian/themes/
+
+# Claude Code
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,4 @@
+- Loose **layered robes** in twilight hues—slate, ochre, sunset purple—woven with reflective threads to ward off spirits and heat.
+- **Brass jewelry and charms**, often shaped like stars, hands, or eyes. Never worn in pairs—**asymmetry is sacred**.
+- Faces often **painted in ritual lines** with soot, ochre, or wind-ash before sacred storytelling or funerary rites.
+- **Woven tents** with sigil-knots and fluttering prayer-ribbons that react to ambient dreams or spirits.

@@ -1,0 +1,4 @@
+- The Zifari believe the Brass City once sang with the voice of the sky—a beacon of alignment between mortal dreams and celestial will.
+- Its fall is seen not as a punishment, but as a pause in the World-Song—a test of whether mortals would continue singing.
+- They do not seek to rebuild the city, but to harvest its echoes, seeking dream-gems and song-scrolls lost in its fragments.
+- Brass itself is used with caution—“metal that remembers”—only worn by Wind-Dreamers or star-burial officiants.
