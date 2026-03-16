@@ -34,5 +34,17 @@ They say the fall of the City was not his doing — but his chance.
  
 For in a world where fate is cracked and bleeding, Zaneth’s vision might finally take root.
  
-A future not inherited, but chosen.  
+A future not inherited, but chosen.
 A world no longer read from the scroll of time, but written by trembling hand.
+
+---
+
+## The Dreamer and the Stories (DM Note)
+
+There is a deep structural parallel here with *The Thousand and One Nights*. Zaneth is chained away from Barizad -- "sleeping" in the Fundament. His act of shattering prophecy made multiple futures possible. Those futures crystallized as Dream-Gems.
+
+In the logic of the *Nights*, stories told at night hold back the king's execution. In Barizad, dreams hold back the consummation of fate. Zaneth is the cosmic dreamer whose rebellion prevents the universe from closing into a single ordained ending.
+
+If freed, Zaneth walks into the Furnace -- the dreamer entering the fire where stories are forged into reality. The dreams the party gathered become the raw material of the new cosmos. Instead of fate being finalized, the universe remains a story still being told.
+
+See: *Thematic Framework - The 1001 Nights Parallel* for the full symbolic map.

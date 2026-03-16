@@ -32,3 +32,21 @@ And without it, time is unwound thread, tangled and fraying.
 What remains burns cold.  
 What was true may no longer be.  
 And the heart… the heart may still beat.
+
+---
+
+## The Origin of the Dream-Gems
+
+The Furnace once distilled infinite possibility into a single, burning thread of prophecy. But Zaneth's rebellion fractured that mechanism before the City fell. His act introduced a crack in deterministic fate -- and when the Furnace finally shattered, the universe suddenly contained **multiple unrealized futures** that could no longer be collapsed into one.
+
+Those futures needed a way to persist without destroying the timeline entirely. They condensed into crystallized possibilities -- the prophecy-gems.
+
+The gems are not, strictly speaking, Zaneth's dreams. They are **human dreams that became possible because of him**. Before his rebellion, there was only one future. After it, there were many. When the Furnace broke, those many futures had nowhere to go. They solidified into the gems the world now fights over.
+
+In other words: Zaneth did not create the gems. He created a universe where they could exist.
+
+This means the entire campaign -- every fragment dungeon, every faction scrambling for gems, every future murdered or preserved -- unfolds within the space that Zaneth's rebellion opened. The PCs are navigating the consequences of his original act, whether they know it or not.
+
+The Aram-Zaneth would view the gems as something close to sacred metaphysical artifacts -- not relics to worship, but proof of their theology. Each gem demonstrates that destiny is not singular, the future is plural, and mortal will can select among possibilities. That is Zanethi doctrine in physical form.
+
+Zaneth himself, if he cares about the gems at all, likely regards them as unresolved experiments -- interesting but not precious. Side effects of his refusal to accept imposed order.
