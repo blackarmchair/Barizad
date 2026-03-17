@@ -1,0 +1,1 @@
+A four-person elite strike team sworn to Sirr al-Nar.
