@@ -23,9 +23,7 @@ The party becomes something like a **metaphysical experiment** -- evidence that 
 Zanethi NPCs might refer to the party using religious language:
 
 > "You walk where prophecy once stood."
-
 > "You are living proof that destiny can still be contested."
-
 > "Zaneth broke the chains. You test whether they remain broken."
 
 The tone is not admiration. Not hostility. **Intense curiosity.**

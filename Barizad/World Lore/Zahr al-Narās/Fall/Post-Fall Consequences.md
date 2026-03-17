@@ -6,7 +6,7 @@ Many of these fragments manifest as vast labyrinthian structures; cryptic and pa
  
 These are not traps laid by malice. They are echoes of a city that once governed reality itself. They do not punish—they correct.
  
-The Djinn Who Remain  
+## The Djinn Who Remain  
 Among the ruins dwell the surviving djinn, those who once served the Celestine Engine with perfect devotion. Their forms have not all endured intact. Some are cracked like mirrors; others weep fire or flicker through moments like broken lanterns. They still attempt to execute long-dead protocols, enforcing patterns no longer relevant, seeking to “repair” a reality that now resists their efforts.
  
 To them, freedom is not a virtue—it is a flaw. Mortal unpredictability is not potential—it is corruption.
