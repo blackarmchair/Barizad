@@ -18,15 +18,15 @@ This floor is physically punishing. The rooms demand cooperation, planning, and 
 
 ## Level Range
 
-- EL 5–9
-- Designed for a party of four at levels 5–7
+- EL 10–12
+- Designed for a party of four at levels 10–12
 
 ## Structure
 
 Five chambers connected by brass corridors. The party can encounter them in any order except the Furnace Shaft, which should come last and leads down toward the Ecliptic Gate on Floor 2.
 
-1. The Shattered Gasworks (EL 7)
-2. The Crucible Walk (EL 8)
-3. The Frozen Processional (EL 9)
-4. The Molten Floodgates (EL 8)
-5. The Furnace Shaft (EL 7)
+1. The Shattered Gasworks (EL 10)
+2. The Crucible Walk (EL 11)
+3. The Frozen Processional (EL 12)
+4. The Molten Floodgates (EL 11)
+5. The Furnace Shaft (EL 10)

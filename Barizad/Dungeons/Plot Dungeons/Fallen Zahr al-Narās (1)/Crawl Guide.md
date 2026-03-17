@@ -1,5 +1,5 @@
 # Fallen Zahr al-Narās (Floor 1) — Crawl Guide
-*Levels 5–7 | EL 7–9 | Party of Four*
+*Levels 10–12 | EL 10–12 | Party of Four*
 
 ## General Features
 
@@ -16,9 +16,9 @@
 **Visibility.** Light sources are critical. Torches last 1 hour (6 stretches). Everburning torches or Light spells are strongly recommended. The Gasworks is filled with combustible gas — **open flames will detonate the room** (8d6 fire, Reflex DC 15 half). A party relying on torches must extinguish them before entering. Sunrods, Darkvision, or Light cast on a non-flammable object are safe alternatives.
 
 **Spot/Listen.** Note each PC's modifiers. Key thresholds:
-- Spot +3 or better: notices the gas haze in the Gasworks before entering
-- Listen +5 or better: hears the Fire Giant working valves in the Floodgates before the party is seen
-- Spot/Search +8 or better: notices the brass ring anchor point in the Furnace Shaft (DC 12) without dedicating a stretch to searching
+- Spot +8 or better: notices the gas haze in the Gasworks before entering and reads the visual cues of heat shimmer in corridors
+- Listen +10 or better: hears the Fire Giant working valves in the Floodgates from two corridors away, giving the party time to prepare
+- Spot/Search +12 or better: notices the brass ring anchor point in the Furnace Shaft (DC 12) without dedicating a stretch, and catches the faint shimmer of the temporal stasis field in the Processional before getting close
 
 ## Stretch Pacing
 
@@ -51,16 +51,18 @@ Wandering monsters patrol the corridors between chambers. They do not enter cham
 
 **Encounter Frequency.** Constant — roll 1d6 at the end of every stretch spent in a corridor.
 **Encounter Likelihood.** Unlikely — on a 6 only, roll on the table.
-**Encounter Difficulty.** Trivial to Challenging — these should tax resources, not threaten a TPK. Floor 1 is about teaching dungeon-crawl discipline.
+**Encounter Difficulty.** Challenging — Floor 1 is the entry to the mega-dungeon. Wandering encounters should drain meaningful resources and signal that the ruins are actively hostile, but not threaten a TPK before the party reaches the deeper floors.
 
-| d6 | Encounter | EL |
+| d8 | Encounter | EL |
 | --- | --- | --- |
-| 1 | 1d3 Magma Mephits (MM pg. 182) — scouting for fuel sources, will flee if outnumbered | 4–5 |
-| 2 | 1 Medium Fire Elemental (MM pg. 99) — drifting through ventilation channels, hostile on sight | 5 |
-| 3 | 2 Azer (MM pg. 21) — lost patrol from the Floodgates, confused but defensive | 5 |
-| 4 | 1 Small Brass Golem (use Animated Object, Medium, MM pg. 14, with fire immunity, Hardness 5) — on a broken patrol loop, attacks non-Ignan speakers | 4 |
-| 5 | 1d4 Thoqqua (MM pg. 242) — burrowing through walls, drawn by heat differentials | 5–6 |
-| 6 | 1 Salamander (MM pg. 219) — territorial, will parley if offered information about the Furnace's state (Diplomacy DC 18) | 6 |
+| 1 | 1 Noble Salamander (MM pg. 219) — a displaced overseer from the old forge district, accompanied by 2 Salamanders (MM pg. 218). Hostile by default, but will negotiate (Diplomacy DC 22) if offered news of the Furnace's state. | 10 |
+| 2 | 1 Large Fire Elemental (MM pg. 99) + 1d3 Medium Fire Elementals — drifting through ventilation channels in a loose pack, drawn by temperature differentials. Hostile on sight. | 9–10 |
+| 3 | 4 Azer (MM pg. 21) led by an Azer Lieutenant (Ftr 4) — an organized patrol from the Floodgates, investigating the party's intrusion. They fight tactically: blocking corridors and flanking. | 9 |
+| 4 | 1 Brass Golem (use Iron Golem, MM pg. 136, with fire immunity instead of fire absorption) — a reactivated guardian on a fractured patrol loop, attacking anything not speaking Ignan. Its commands are centuries out of date. | 11 |
+| 5 | 1d4+2 Thoqqua (MM pg. 242) + 1 Roper (MM pg. 215) — a symbiotic cluster. The Thoqqua burrow through walls to flush prey toward the Roper, which has anchored itself to the corridor ceiling. | 10 |
+| 6 | 1 Efreeti (MM pg. 115) — appears in a column of superheated air, assuming the party are salvagers or thieves. Arrogant but not immediately violent — demands tribute (2,000 gp or a magic item) to pass. Attacks if refused or insulted. | 10 |
+| 7 | 2 Greater Fire Elementals (MM pg. 99) — remnants of the Celestine Furnace's fuel system, still cycling through channels that no longer exist. They barrel through corridors on a fixed path and attack anything in their way. | 11 |
+| 8 | 1 Half-Fiend Ettin (MM pg. 107, 108) — a warped thing that crawled up from the depths below the Furnace Shaft. Savage and disoriented, it attacks on sight but flees at half health, potentially reappearing later at an inopportune moment. | 10 |
 
 ## Stretch Tracking Sheet
 
